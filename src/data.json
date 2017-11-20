@@ -1,0 +1,17 @@
+[
+    {
+        "name": "nuts",
+        "quantity": 10,
+        "price": 1.25
+    },
+    {
+        "name": "eggplant",
+        "quantity": 10,
+        "price": 1.45
+    },
+    {
+        "name": "water gun",
+        "quantity": 10,
+        "price": 1.70
+    }
+]
