@@ -1,9 +1,9 @@
-const processData = require("./process-data");
-
 class VendingMachine {
     constructor(data) {
-        this.data = processData(data);
+        this.data = data;
     }
+
+    //move invent to here
     printInventory() {
         return this.data.inventory;
     }

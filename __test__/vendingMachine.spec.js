@@ -1,5 +1,3 @@
-jest.setMock("../src/process-data", require("../__mocks__/process-data.mock"));
-
 const vendingMachine = require("../src/vendingMachine.js");
 
 describe("vendingMachine", () => {
